@@ -1,6 +1,6 @@
 {
-  "name": "proyecto-3-ng",
-  "version": "0.0.0",
+  "name": "proyecto3-mashup",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
